@@ -72,3 +72,9 @@ Orientação a objetos:
 Suporta modelos de programação orientados a objetos, permitindo a criação e manipulação de objetos. 
 
 Em resumo: O JavaScript é uma ferramenta poderosa para adicionar dinamismo e interatividade a páginas web e outras aplicações, funcionando através da interpretação de código e interação com HTML e CSS. 
+
+
+######################################################################
+
+
+RAPHAEL GARCIA
